@@ -1,6 +1,6 @@
 # Yujie Xing
 
-MSc student in Artificial Intelligence for Sustainable Development at University College London (UCL).
+MSc AI @ UCL | BSc Data Science | Machine Learning & Deep Learning | Reinforcement Learning | AI Agents
 
 ## Curriculum Vitae
 
